@@ -1,1 +1,0 @@
-https://maven.minecraftforge.net/net/minecraftforge/forge/1.18.2-40.0.52/forge-1.18.2-40.0.52-installer.jar
